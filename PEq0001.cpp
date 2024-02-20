@@ -1,5 +1,5 @@
 //
-// Created by stellarterror
+// Created by StellarTerror
 //
 // Problem:
 // If we list all the natural multiples below 10 that are multiples of 3 or 5, we get 3,5,6 and 9.
