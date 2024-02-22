@@ -13,26 +13,29 @@
 // An if loop checks for third terms divisible by 2 and stores their summation in the sum variable.
 // Finally, we cout the sum to get our desired result.
 
+//in case of n=50 its going till 55. fix that issue.!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!!
+
 #include <iostream>
 
 int main(){
 
     //defining the maximum limit of fibonacci
-    int n{};
+    unsigned long long n{};
     std::cin >> n;
 
     //variables for terms of fibonacci
-    int t1{};
-    int t2{1};
-    int t3{};
+    unsigned long long t1{};
+    unsigned long long t2{1};
+    unsigned long long t3{};
 
     //Variable to store the sum of even terms
-    int sum{};
+    unsigned long long sum{};
 
-    while (t3 <= n){
+    while (t3 < n){
 
         //Defining third term as it is in fibonacci sequence
         t3 = t1 + t2;
+        std::cout << t3 << std::endl;
 
         //checking the even third terms
         if (t3 % 2 == 0){
