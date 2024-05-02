@@ -1,1 +1,2 @@
-Hi, I'm StellarTerror. I'll be sharing my Project Euler (https://projecteuler.net/archives) solutions here. Welcome aboard!!
+Hey, this is my place to store and share my https://projecteuler.net solutions. Welcome Aboard!!
+
