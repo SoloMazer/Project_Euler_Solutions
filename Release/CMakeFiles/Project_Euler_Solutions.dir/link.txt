@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/Project_Euler_Solutions.dir/PEq0001.cpp.o -o Project_Euler_Solutions
