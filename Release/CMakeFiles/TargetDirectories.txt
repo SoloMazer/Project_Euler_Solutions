@@ -1,3 +1,0 @@
-/home/stellarterror/CodingProjects/Project_Euler_Solutions/Release/CMakeFiles/Project_Euler_Solutions.dir
-/home/stellarterror/CodingProjects/Project_Euler_Solutions/Release/CMakeFiles/edit_cache.dir
-/home/stellarterror/CodingProjects/Project_Euler_Solutions/Release/CMakeFiles/rebuild_cache.dir
